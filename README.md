@@ -1,1 +1,7 @@
-# genshinimpacthelper.github.io
+<!DOCTYPE html>
+<html lang="en-US">
+<body>
+
+<h1>"Genshin Impact Helper"</h1>
+
+</html>
