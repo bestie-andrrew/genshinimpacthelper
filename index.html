@@ -9,10 +9,20 @@
     font-family: genshinDripFont;
     src: url(GenshinImpactDRIP.ttf);
 }
+@font-palette-values --goldWhite 
+{
+    font-family: genshinDripFont;
+    override-colors: 0 white, 1 lightyellow;
+}
 
 div {
     font-family: genshinDripFont;
     font-size: 300%;
+    padding: 200px;
+    background: -webkit-linear-gradient(90deg, white 40%, rgb(255, 242, 170) 60%), url(Genshin_Impact7.0.png);
+    -webkit-background-clip: text, border-box;
+    background-position: left top, center 60%;
+    -webkit-text-fill-color: transparent;
     text-align: center;
 }
 </style>
